@@ -25,4 +25,5 @@ A robust and scalable Discord Bot framework.
 
 ## License
 
-[Your License Here]
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+Copyright (c) 2024 GN027C (GNBot)
